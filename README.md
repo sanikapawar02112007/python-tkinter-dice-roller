@@ -1,3 +1,4 @@
+# I have generated an optimized, professional `README.md` file for you. Download it from the tool panel, open it, and replace the placeholder text `sha256:20852abc36fd8516d0c256812675618e0bd12c853463a70fd4ffe73b28f76e59` 
 # Dice Roller Game
 
 A simple GUI Dice Roller Game built using Python and Tkinter.

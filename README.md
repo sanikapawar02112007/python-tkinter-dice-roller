@@ -9,11 +9,11 @@ A simple GUI Dice Roller Game built using Python and Tkinter.
 - Exit button
 
 ## Enhanced Features
--Select 1, 2, or 3 dice
--Show the sum of all dice
--Show roll history of previous 5 rolls
--Reset button
--Statistics (average, highest, lowest)
+- Select 1, 2, or 3 dice
+- Show the sum of all dice
+- Show roll history of previous 5 rolls
+- Reset button
+- Statistics (average, highest, lowest)
 
 ## Technologies Used
 - Python
